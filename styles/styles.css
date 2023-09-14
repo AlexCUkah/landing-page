@@ -108,6 +108,7 @@ img{
     height: 35px;
     width: 110px;
     font-weight: bold;
+    border-radius: 15%;
 }
 .body-content{
     
@@ -163,6 +164,7 @@ figure>img{
     height: 140px;
     justify-content: space-between;
     align-items: center;
+    border-radius: 1%;
 }
 
 .formwriting{
@@ -183,4 +185,5 @@ figure>img{
     height: 35px;
     width: 110px;
     font-weight: bold;
+    border-radius: 15%;
 }
